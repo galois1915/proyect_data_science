@@ -31,7 +31,7 @@ After writing commit message, just press Esc Button and then write :wq or :wq! a
 $ git reset
 $ git reset <file>
 $ git mv application.py newApplication.py
-$ git statu
+$ git status
 $ git add -A/--all
 $ git add .
 $ git add --ignore-removal .
