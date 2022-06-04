@@ -1,0 +1,38 @@
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+
+$ git config --list
+
+:q
+
+$ git init
+# dir
+$ git status
+$ git status -s
+$ git add --all / nombre de archivo
+$ git commit -m "" /git commit -am  "" /
+$ git ls-files
+$ git ls-tree -rt HEAD:./ | awk '{if ($2 == "tree") print $4;}'
+$ git brach  (mirar ramas)
+$ git brach nueva_rama  (crear ramas)
+$ git checkout nombre_rama  (cambiar de ramas)
+$ git log
+$ rm -rf .git
+$ git rm nombre_del_arcchivo eliminar
+
+$ git remote add origin git@github.com:username/new_repo
+$ git branch -M main (cambia de master a main)
+$ git remote -v
+$ git push -u origin master
+
+After writing commit message, just press Esc Button and then write :wq or :wq! and then Enter to close the unix file.
+
+
+$ git reset
+$ git reset <file>
+$ git mv application.py newApplication.py
+$ git statu
+$ git add -A/--all
+$ git add .
+$ git add --ignore-removal .
+$ git add -u
