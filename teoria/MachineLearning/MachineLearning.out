@@ -1,0 +1,85 @@
+\BOOKMARK [0][-]{chapter.1}{aora}{}% 1
+\BOOKMARK [-1][-]{part.1}{I Statistical and probabiliti \(EDA\).}{}% 2
+\BOOKMARK [0][-]{section.1.1}{Estimates and explorind data.}{part.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Distributions.}{section.1.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Statistical experiment.}{section.1.1}% 5
+\BOOKMARK [-1][-]{part.2}{II Resamplin\(train and test set\).}{}% 6
+\BOOKMARK [0][-]{chapter.2}{Sampli:stratied}{part.2}% 7
+\BOOKMARK [0][-]{chapter.3}{Imbalance data.}{part.2}% 8
+\BOOKMARK [1][-]{section.3.1}{Undersampling}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.2}{Oversamplig}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.2.1}{Bootstraping}{section.3.2}% 11
+\BOOKMARK [2][-]{subsection.3.2.2}{data generation: SMOTE algorithm}{section.3.2}% 12
+\BOOKMARK [1][-]{section.3.3}{Weighting.}{chapter.3}% 13
+\BOOKMARK [1][-]{section.3.4}{Cost-based classification.}{chapter.3}% 14
+\BOOKMARK [1][-]{section.3.5}{bibliografi}{chapter.3}% 15
+\BOOKMARK [-1][-]{part.3}{III Supervised \(model\)}{}% 16
+\BOOKMARK [0][-]{chapter.4}{Linear regression.}{part.3}% 17
+\BOOKMARK [0][-]{chapter.5}{Logistic regression.}{part.3}% 18
+\BOOKMARK [1][-]{section.5.1}{Regularization.}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.2}{C\363digo.}{chapter.5}% 20
+\BOOKMARK [0][-]{chapter.6}{Desicion tree.}{part.3}% 21
+\BOOKMARK [1][-]{section.6.1}{regression}{chapter.6}% 22
+\BOOKMARK [1][-]{section.6.2}{Classification}{chapter.6}% 23
+\BOOKMARK [0][-]{chapter.7}{Random Forest.}{part.3}% 24
+\BOOKMARK [1][-]{section.7.1}{Regularization.}{chapter.7}% 25
+\BOOKMARK [1][-]{section.7.2}{C\363digo.}{chapter.7}% 26
+\BOOKMARK [0][-]{chapter.8}{Bagging}{part.3}% 27
+\BOOKMARK [0][-]{chapter.9}{Boosting.}{part.3}% 28
+\BOOKMARK [0][-]{chapter.10}{Bayesian additive regression trees.}{part.3}% 29
+\BOOKMARK [0][-]{chapter.11}{Supert Vector Machine.}{part.3}% 30
+\BOOKMARK [1][-]{section.11.1}{Regularization.}{chapter.11}% 31
+\BOOKMARK [1][-]{section.11.2}{C\363digo.}{chapter.11}% 32
+\BOOKMARK [-1][-]{part.4}{IV Unsupervised \(model\)}{}% 33
+\BOOKMARK [0][-]{chapter.12}{K-means}{part.4}% 34
+\BOOKMARK [0][-]{chapter.13}{Hierarchical Clustering.}{part.4}% 35
+\BOOKMARK [-1][-]{part.5}{V Deep learning \(model\)}{}% 36
+\BOOKMARK [0][-]{chapter.14}{Neural Networks}{part.5}% 37
+\BOOKMARK [1][-]{section.14.1}{Activation function.}{chapter.14}% 38
+\BOOKMARK [1][-]{section.14.2}{Convulation layer.}{chapter.14}% 39
+\BOOKMARK [1][-]{section.14.3}{Poling layer.}{chapter.14}% 40
+\BOOKMARK [0][-]{chapter.15}{Regularization.}{part.5}% 41
+\BOOKMARK [1][-]{section.15.1}{The Vanishing/Exploring gradients}{chapter.15}% 42
+\BOOKMARK [1][-]{section.15.2}{Reusing Petrained Layer}{chapter.15}% 43
+\BOOKMARK [1][-]{section.15.3}{Faster Optimizationers.}{chapter.15}% 44
+\BOOKMARK [1][-]{section.15.4}{Overfitting.}{chapter.15}% 45
+\BOOKMARK [1][-]{section.15.5}{Summary}{chapter.15}% 46
+\BOOKMARK [1][-]{section.15.6}{bibliografy}{chapter.15}% 47
+\BOOKMARK [-1][-]{part.6}{VI Optimization \(opt model\).}{}% 48
+\BOOKMARK [0][-]{chapter.16}{First order methods.}{part.6}% 49
+\BOOKMARK [1][-]{section.16.1}{Adagrad.}{chapter.16}% 50
+\BOOKMARK [1][-]{section.16.2}{Adam.}{chapter.16}% 51
+\BOOKMARK [0][-]{chapter.17}{Second order methods.}{part.6}% 52
+\BOOKMARK [1][-]{section.17.1}{Newton's method.}{chapter.17}% 53
+\BOOKMARK [1][-]{section.17.2}{Secant method.}{chapter.17}% 54
+\BOOKMARK [0][-]{chapter.18}{Direct Methods.}{part.6}% 55
+\BOOKMARK [1][-]{section.18.1}{Nelder-mead simplex method.}{chapter.18}% 56
+\BOOKMARK [0][-]{chapter.19}{Stochastic methods.}{part.6}% 57
+\BOOKMARK [1][-]{section.19.1}{Noise descent.}{chapter.19}% 58
+\BOOKMARK [1][-]{section.19.2}{Cross-Entropy method.}{chapter.19}% 59
+\BOOKMARK [-1][-]{part.7}{VII Regularization \(overfitting\).}{}% 60
+\BOOKMARK [-1][-]{part.8}{VIII Metrics \(evaluation\)}{}% 61
+\BOOKMARK [0][-]{chapter.20}{Regression}{part.8}% 62
+\BOOKMARK [0][-]{chapter.21}{Classification}{part.8}% 63
+\BOOKMARK [1][-]{section.21.1}{Matrix confusion}{chapter.21}% 64
+\BOOKMARK [1][-]{section.21.2}{ROC curve.}{chapter.21}% 65
+\BOOKMARK [1][-]{section.21.3}{PR curve}{chapter.21}% 66
+\BOOKMARK [1][-]{section.21.4}{Gain chart and lift chart.}{chapter.21}% 67
+\BOOKMARK [1][-]{section.21.5}{K-S Chart}{chapter.21}% 68
+\BOOKMARK [1][-]{section.21.6}{bibliografia.}{chapter.21}% 69
+\BOOKMARK [-1][-]{part.9}{IX Python.}{}% 70
+\BOOKMARK [0][-]{chapter.22}{sklearn.preprocessing}{part.9}% 71
+\BOOKMARK [0][-]{chapter.23}{sklearn.pipeline}{part.9}% 72
+\BOOKMARK [0][-]{chapter.24}{sklearn.ensemble}{part.9}% 73
+\BOOKMARK [1][-]{section.24.1}{sklearn.emsemble.RandomForestClassifier}{chapter.24}% 74
+\BOOKMARK [0][-]{chapter.25}{sklearn.model\137selection}{part.9}% 75
+\BOOKMARK [0][-]{chapter.26}{sklearn.metrics}{part.9}% 76
+\BOOKMARK [0][-]{chapter.27}{tf.keras.model}{part.9}% 77
+\BOOKMARK [0][-]{chapter.28}{ft.keras.layer}{part.9}% 78
+\BOOKMARK [-1][-]{part.10}{X R.}{}% 79
+\BOOKMARK [0][-]{chapter.29}{ggplot}{part.10}% 80
+\BOOKMARK [0][-]{chapter.30}{dplyr}{part.10}% 81
+\BOOKMARK [0][-]{chapter.31}{tidyr}{part.10}% 82
+\BOOKMARK [-1][-]{part.11}{XI SQL.}{}% 83
+\BOOKMARK [-1][-]{part.12}{XII Julia.}{}% 84
+\BOOKMARK [-1][-]{part.13}{XIII C++.}{}% 85

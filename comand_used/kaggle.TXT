@@ -1,0 +1,18 @@
+
+pip install kaggle 
+mkdir .kaggle (Now, we have to make .kaggle folder in the same directory where your python, jupyter notebook is installed usually it’s your home directory. )
+pegar el kaggle.json
+
+import kaggle
+!(page the API command)
+
+from zipfile import ZipFile
+file_name = ' .zip' #the file is your dataset exact name
+with ZipFile(file_name, 'r') as zip:
+  zip.extractall()
+  print('Done')
+
+with ZipFile('ibm-hr-analytics-attrition-dataset.zip', 'r') as f:
+    names = f.namelist()
+print(names)
+# ['file1', 'folder1/file2', ...]

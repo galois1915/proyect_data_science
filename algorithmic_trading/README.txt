@@ -1,1 +1,0 @@
-https://neptune.ai/blog/predicting-stock-prices-using-machine-learning  

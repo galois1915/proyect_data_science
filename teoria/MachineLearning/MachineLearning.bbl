@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{hastie2009elements}
+T.~Hastie, R.~Tibshirani, and J.~Friedman, {\em The Elements of Statistical
+  Learning: Data Mining, Inference, and Prediction}.
+\newblock Springer series in statistics, Springer, 2009.
+
+\bibitem{james2013introduction}
+G.~James, D.~Witten, T.~Hastie, and R.~Tibshirani, {\em An introduction to
+  statistical learning}, vol.~112.
+\newblock Springer, 2013.
+
+\end{thebibliography}

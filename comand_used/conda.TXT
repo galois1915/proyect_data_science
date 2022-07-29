@@ -1,0 +1,13 @@
+CONDA
+cd
+dir
+conda activate entorno
+python --version
+conda --version
+cd ..
+conda info --envs
+conda list (in envs activate)
+conda list -n myenv (env deactived)
+conda list numpy
+c:  ;   g:  (change directory)
+jupyter notebook
